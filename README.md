@@ -34,7 +34,7 @@ I am a B.Tech student and a dedicated Full Stack Developer with experience in bu
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: (Add your link here)  
+- 💼 LinkedIn: https://www.linkedin.com/in/nithin-bodasu-51176b2b9/  
 - 📧 Email: 2303a51803@sru.edu.in  
 
 ---
