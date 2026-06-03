@@ -11,11 +11,11 @@ I am a B.Tech student and a dedicated Full Stack Developer with experience in bu
 ---
 
 ## 🛠 Tech Stack
-- 💻 Languages: Java, JavaScript  
+- 💻 Languages: Java, JavaScript ,python 
 - 🌐 Frontend: HTML, CSS, React  
-- 🔧 Backend: Node.js  
+- 🔧 Backend: Node.js,express.js  
 - 🗄 Database: MongoDB  ,My SQL
-- ⚙️ Tools: Git, GitHub, VS Code  
+- ⚙️ Tools: Git, GitHub, VS Code  ,postman
 
 ---
 
