@@ -127,20 +127,13 @@ Python • Pandas • NumPy • Scikit-Learn • NLP
 
 # 📊 GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=2303A51803&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2303A51803&layout=compact&theme=tokyonight" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2303A51803&theme=tokyonight" />
-</p>
 
 ---
 
 # 🏆 Achievements
 
-✔ Solved 250+ DSA Problems
+✔ Solved 450+ DSA Problems
 
 ✔ Built Multiple Full Stack Projects
 
